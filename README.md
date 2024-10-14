@@ -1,2 +1,2 @@
 # delta-demo
-This is a demo for study 
+This is a demo for study.
